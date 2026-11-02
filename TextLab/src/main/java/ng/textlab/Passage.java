@@ -1,9 +1,5 @@
 package ng.textlab;
 
-/**
- * Keeps the original passage safe while the edited version changes,
- * so the two can be compared.
- */
 public class Passage {
 
     private String original;
